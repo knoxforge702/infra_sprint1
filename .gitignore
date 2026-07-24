@@ -135,6 +135,7 @@ media/
 .media
 
 backend/static_backend
+backend/collected_static
 
 # FRONTEND
 
@@ -148,6 +149,7 @@ frontend/node_modules
 
 # production
 /build
+frontend/build
 
 # misc
 .DS_Store
